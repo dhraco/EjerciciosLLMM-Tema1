@@ -1,0 +1,31 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p1 {
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+}
+
+#p2 {
+    background-color: yellowgreen;
+    color: tomato;
+    text-align: justify;
+}
+
+#p3 {
+    background-color: chocolate;
+    color: white;
+    text-align: right;
+}
+
+#p4 {
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+}
